@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de pueba del modulo 2 de Henry
+este proyecto es una pueba de como clonar un repositorio y clonarlo desde guthub a mi pc
